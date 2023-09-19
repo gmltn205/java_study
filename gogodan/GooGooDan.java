@@ -1,3 +1,5 @@
+package gogodan;
+
 import java.util.Scanner;
 
 public class GooGooDan {
